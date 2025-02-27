@@ -1,4 +1,5 @@
-## HI:) 
+## Hi :))
+I am JinJin
 
 <!--
 **5jinjin/5jinjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
